@@ -11,7 +11,7 @@ I created two versions of the notebook:
 
 ## Approach
 
-### Version 1: Manual Model Selection
+### [Version 1: Manual Model Selection](https://www.kaggle.com/code/hassaneskikri/titanic-project-version-1#Selecting-the-best-model-based-on-performance.)
 
 - Implemented a preprocessing pipeline to clean and transform the dataset.
 
@@ -33,7 +33,7 @@ I created two versions of the notebook:
 
 - Performed **GridSearchCV** for hyperparameter optimization, achieving a **test accuracy of 0.8507**.
 
-### Version 2: LazyClassifier Approach
+### [Version 2: LazyClassifier Approach](https://www.kaggle.com/code/hassaneskikri/titanic-v2-using-lazyclassifier)
 
 - Used **LazyClassifier** to automate model comparison.
 
